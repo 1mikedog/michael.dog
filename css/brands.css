@@ -84,6 +84,19 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Freelancer */
+.button.button-freelancer {
+  color: #000000;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  background-color: #ffffff;
+}
+.button.button-freelancer:hover,
+.button.button-freelancer:focus {
+  filter: brightness(90%);
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
